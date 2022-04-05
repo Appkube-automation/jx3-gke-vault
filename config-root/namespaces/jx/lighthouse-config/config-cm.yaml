@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - synectiks-sddc/jx3-gke-vault
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.34.132.76.48.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
